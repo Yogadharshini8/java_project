@@ -2,8 +2,7 @@ public class Demo{
     public static void main(String args[]){
        System.out.println("Hello from Demo");
        System.out.println("hello everyone");
-      System.out.println("Hello Yogadharshini");
-        System.out.println("Jenkins");
+        System.out.println("Jenkins Project");
         
      }
 }
