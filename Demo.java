@@ -3,7 +3,7 @@ public class Demo{
        System.out.println("Hello from Demo");
        System.out.println("hello everyone");
         System.out.println("Jenkins Project");
-        System.out.println("jebkins thorugh instance");
+        System.out.println("Hii Jenkins");
         
      }
 }
